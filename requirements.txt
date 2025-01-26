@@ -1,0 +1,8 @@
+gradio
+huggingface_hub
+sentence-transformers
+faiss-cpu
+transformers
+pdfplumber
+torch  # Version compatible with sentence-transformers and transformers
+numpy
